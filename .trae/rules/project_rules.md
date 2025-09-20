@@ -1,0 +1,2 @@
+All code and comments must be written in English.
+Don't try to execute npx expo start. The server is already running in another console, and you can't see the output in any way, only I can check the app.
