@@ -25,7 +25,6 @@ The 75 Hard challenge is a mental toughness program that requires you to complet
 
 <div align="center">
   <img src="assets/screenshots/main-screen.jpg" alt="Main Screen" width="300" style="margin: 10px;">
-  <img src="assets/screenshots/mood-picker.jpg" alt="Mood Picker" width="300" style="margin: 10px;">
 </div>
 
 ## 🚀 How to use
